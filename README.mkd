@@ -1,0 +1,17 @@
+# ShareHere
+
+Easy share to SNS package for browsers.
+
+## Available Services
+
+- Twitter
+- Facebook
+- LINE
+
+## Copyright
+
+2015 &copy; Magnet Inc
+
+## License
+
+MIT Lisence

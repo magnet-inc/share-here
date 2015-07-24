@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/magnet-inc/share-here/issues"
   },
-  "homepage": "https://github.com/magnet-inc/share-here#readme"
+  "homepage": "https://github.com/magnet-inc/share-here#readme",
+  "dependencies": {
+    "query-string": "^2.3.0"
+  }
 }
