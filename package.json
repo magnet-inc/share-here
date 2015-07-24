@@ -1,6 +1,6 @@
 {
   "name": "share-here",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy share to SNS package for browsers",
   "main": "index.js",
   "scripts": {

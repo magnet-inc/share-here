@@ -57,4 +57,4 @@ shareHere.line = function(options) {
   return "http://line.me/R/msg/text/?" + encodeURIComponent(url);
 };
 
-module.export = shareHere;
+module.exports = shareHere;
