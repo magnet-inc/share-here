@@ -1,0 +1,19 @@
+{
+  "name": "share-here",
+  "version": "1.0.0",
+  "description": "Easy share to SNS package for browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/magnet-inc/share-here.git"
+  },
+  "author": "Sho Kusano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnet-inc/share-here/issues"
+  },
+  "homepage": "https://github.com/magnet-inc/share-here#readme"
+}
